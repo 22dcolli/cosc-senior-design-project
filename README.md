@@ -25,7 +25,7 @@
 
 <tr>
 <td>Megan Rose</td>
-<td></td>
+<td></td>mrose10@uwyo.edu
 </tr>
      
 </table>   
